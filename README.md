@@ -1,27 +1,28 @@
-# Webhook Spy Script
+## Webhook Spy v3
 
-## Overview
+This repository contains the legacy build of **Webhook Spy v3**, a specialized tool originally developed for monitoring and managing webhook interactions. The project is currently maintained as a technical archive, representing a specific era of API interaction and script protection.
 
-This repository contains a discontinued and unmaintained script originally developed by Emplic. The code is provided in its obfuscated state for archival and educational reference only. The script is non-functional in current environments and should not be used for any operational purposes.
+The implementation focuses on high-level obfuscation and secure logic handling. It is preserved here for historical reference, technical analysis, and study of legacy code structures.
 
-## Status Notice
+### Status Notice
 
-This project is discontinued. No further development, updates, or maintenance will be provided. The script is incompatible with current systems and exists only as a historical artifact for technical study.
+* **Discontinued:** This project is no longer under active development.
+* **Unmaintained:** No further updates, patches, or bug fixes will be provided.
+* **Non-functional:** Due to updates in external APIs and security protocols, the script is no longer operational in current environments.
 
-## Important Disclaimers
+### Technical Details
 
-The source code is heavily obfuscated and cannot be deobfuscated through conventional means. Reverse engineering attempts will not yield readable or functional code. The obfuscation is permanent and irreversible.
+* **Obfuscation:** The source code is heavily obfuscated using irreversible transformation techniques. It cannot be deobfuscated or restored to a human-readable state through conventional means.
+* **Integrity:** The obfuscation is a permanent feature of this release. Any attempts to modify or reverse-engineer the logic will result in a non-functional script.
+* **Compatibility:** All endpoints and services previously utilized by this script have been deprecated or secured, rendering the tool obsolete.
 
-This script is provided solely for educational analysis of obfuscation techniques and historical reference. It is not intended for use, modification, or deployment in any environment. The functionality described in its original purpose is no longer operational.
+### Notes
 
-## Usage Restrictions
+* Provided strictly for educational and archival purposes.
+* Intended for the study of advanced code protection and obfuscation patterns.
+* Not intended for deployment, modification, or active use.
+* No support or documentation will be provided for implementation.
 
-Any attempt to use, modify, or redistribute this code for active purposes is strictly prohibited. The script exists only as a case study in code obfuscation and legacy script preservation.
+### Credits
 
-## Original Context
-
-This script was created during a specific period of Discord API interaction. All related APIs, endpoints, and services it once interacted with have since been updated, deprecated, or secured, rendering the script completely non-functional.
-
-## Final Note
-
-This repository is locked in its current state. No issues will be addressed, no pull requests will be reviewed, and no support will be provided. It serves exclusively as an example of legacy code preservation.
+* **Emplic** — [https://github.com/Emplic](https://github.com/Emplic)
